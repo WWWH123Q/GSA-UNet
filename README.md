@@ -175,12 +175,6 @@ GSA-UNet/
 └── requirements.txt
 ```
 
-## 【Limitations】
-
-- The reported experiments use deterministic predictions and do not quantify forecast uncertainty.
-- Each experiment primarily uses a single meteorological field as input.
-- Generalization to unseen climatic regions and weather regimes remains to be evaluated.
-- The hourly experiments are limited to a three-hour forecast horizon.
 
 ## 【Citation】
 
@@ -197,11 +191,3 @@ If this work is useful for your research, please cite:
 
 Publication information and the BibTeX entry will be updated after acceptance.
 
-## 【Contact】
-
-- Sihan Wang: `2024068061200009@ecjtu.edu.cn`
-- Xiaohui Huang: `huangxiaohui@ecjtu.edu.cn`
-
-## 【License】
-
-An open-source license must be selected and added before public release.
